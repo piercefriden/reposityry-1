@@ -6,7 +6,7 @@
     <p>
       Welcome to my Web Page. This Web Page is a demonstration of HTML.
     </p>
-<img src="glove.jpg" alt="glove">
+    <img src="glove.jpg" alt="glove">
 
   </body>
 </html> <!-- closing html log -->

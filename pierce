@@ -1,0 +1,10 @@
+<!DOCTYPE html> <!--doctype decloration: tells the browser that this is an HTML file -->
+<html>
+  <head><title>First Web Page</title></head>
+  <body>
+    <h1>Hello, World</h1>
+    <p>
+      Welcome to my Web Page. This Web Page is a demonstration of HTML.
+    </p>
+  </body>
+</html> <!-- closing html log -->
